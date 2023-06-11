@@ -1,0 +1,16 @@
+{
+	// 表示名
+	"name": "Stock Market Analysis",
+	// docker-compose.ymlでイメージ・コンテナを作成
+	"dockerComposeFile": "../Docker/docker-compose.yml",
+	// VSCodeのワークスペースフォルダ
+	"workspaceFolder": "/workspace",
+	// 使用するサービス
+	"service": "web",
+	// リモート先のVSCodeにインストールする拡張機能
+	"extensions": [
+	  "ms-python.python"
+	],
+	// VSCodeを閉じた時、コンテナが自動停止するように指定
+	"shutdownAction": "none"
+  }
