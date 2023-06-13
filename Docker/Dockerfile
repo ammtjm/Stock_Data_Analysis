@@ -1,9 +1,9 @@
-FROM python:3
+FROM python:3.9
 ENV PYTHONUNBUFFERED 1
 RUN pip install pandas
 RUN pip install pandasql
 RUN pip install numpy
-RUN pip install sklearn
+RUN pip install scikit-learn
 RUN pip install matplotlib
 RUN pip install plotly
 RUN pip install seaborn
