@@ -1,0 +1,12 @@
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BRK.B']: Exception('%ticker%: No timezone found, symbol may be delisted')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BF.B']: Exception('%ticker%: No price data found, symbol may be delisted (1d 2009-01-01 00:00:00 -> 2023-11-24)')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BRK.B']: Exception('%ticker%: No timezone found, symbol may be delisted')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BF.B']: Exception('%ticker%: No price data found, symbol may be delisted (1d 2009-01-01 00:00:00 -> 2023-11-24)')
